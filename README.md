@@ -1,2 +1,4 @@
 # itzxahiiid
 AKasHBomBeR
+
+cd xahiiid
